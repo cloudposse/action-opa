@@ -1,5 +1,5 @@
 name: 'opa'
-description: 'Run opa test command'
+description: 'Run OPA test command'
 inputs:
   path:
     description: 'Path to directory where rego files are located'
@@ -15,7 +15,7 @@ inputs:
     default: ''
 outputs:
   result:
-    description: 'Outputs of opa command'
+    description: 'Outputs of OPA command'
 runs:
   using: 'docker'
   image: 'Dockerfile'

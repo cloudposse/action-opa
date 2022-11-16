@@ -1,0 +1,8 @@
+**/.idea
+**/*.iml
+**/build
+**/dist
+.DS_Store
+*.tar
+*.gz
+/bin

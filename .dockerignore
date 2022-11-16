@@ -1,0 +1,6 @@
+.git
+.gitignore
+.editorconfig
+**/.idea
+**/*.iml
+**/build

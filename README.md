@@ -1,5 +1,4 @@
-action-opa
-==========
+# action-opa
 
 [![](https://github.com/b4b4r07/action-opa/workflows/release/badge.svg)](https://github.com/b4b4r07/action-opa/releases)
 
